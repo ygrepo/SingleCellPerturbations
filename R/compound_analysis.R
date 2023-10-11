@@ -2,6 +2,7 @@
 # 
 # install.packages("arrow")
 #install.packages("plotly")
+rm(list=ls())
 library(rcdk)
 library(arrow)
 library(data.table)
